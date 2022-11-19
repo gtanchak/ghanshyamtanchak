@@ -4,7 +4,7 @@
 ## 🙋‍♂️ About Me
   
 - 🔭 I’m currently working on my course
-- 🌱 I’m currently learning Next Js
+- 🌱 I’m currently learning Node js
 - 💬 Ask me about <b>Soft Skills</b>
 - 📫 How to reach me: ghtanchak77@gmail.com
 
