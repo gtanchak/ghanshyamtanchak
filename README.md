@@ -3,8 +3,8 @@
 
 ## 🙋‍♂️ About Me
   
-- 🔭 I’m currently working on my course
-- 🌱 I’m currently learning Node js
+- 🔭 I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
+- 🌱 Exploring Technical Skills
 - 💬 Ask me about <b>Soft Skills</b>
 - 📫 How to reach me: ghtanchak77@gmail.com
 
