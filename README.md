@@ -1,5 +1,5 @@
 <h1>Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30">, I'm Ghanshyam Tanchak</h1>
-<p>I'm Ghanshyam Tanchak, Fullstack developer from <img src="https://cdn-icons-png.flaticon.com/512/3909/3909444.png" width="20"/></p>
+<p>I'm Ghanshyam Tanchak, Fullstack developer from <img src="https://cdn-icons-png.flaticon.com/512/3909/3909444.png" width="15"/></p>
 
 ## 🙋‍♂️ About Me
   
