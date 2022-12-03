@@ -2,15 +2,13 @@
 <p>I'm Ghanshyam Tanchak, Software Developer from <img src="https://cdn-icons-png.flaticon.com/512/3909/3909444.png" width="15"/></p>
 
 ## 🙋‍♂️ About Me
-  
-- 🔭 I’m working as a Software Developer and contributing to frontend and backend for building web applications.
-- 🌱 Exploring Technical Skills
-- 💬 Ask me about <b>Soft Skills</b>
-- 📫 How to reach me: ghtanchak77@gmail.com
+🔭 I’m working as a Software Developer.<br>🌱 I’m currently learning node js<br>💬 Ask me about Soft Skills<br>
 
 
-## 🚀 Things I code with:
-  
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ghanshyam-tanchak-695837163) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/@gt_1357) 
+
+# 💻 Tech Stack:
 <p>
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=for-the-badge&logo=react&logoColor=white" />
   <img alt="mui" src="https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white" />
@@ -40,15 +38,14 @@
   <img alt="express" src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" />
   <img alt="jira" src="https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white" />
   <img alt="bootstrap" src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white" />
-  
-</p>
-<br/>
-<br/>
-  
-## 📊 My Github Stats
+  </p>
 
-<div>
-<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ghanshyamtanchak&layout=compact" />
-<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=ghanshyamtanchak&show_icons=true&theme=radical&show_icons=true&count_private=true" />
-</div>
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=ghanshyamtanchak&theme=react&hide_border=true&include_all_commits=false&count_private=true)
+![](https://github-readme-streak-stats.herokuapp.com/?user=ghanshyamtanchak&theme=react&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=ghanshyamtanchak&theme=react&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
 
+---
+[![](https://visitcount.itsvg.in/api?id=ghanshyamtanchak&icon=6&color=8)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
