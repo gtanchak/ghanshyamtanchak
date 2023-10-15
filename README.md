@@ -43,11 +43,6 @@
   <img alt="graphql" src="https://img.shields.io/badge/graphql-%23F6009C.svg?style=for-the-badge&logo=graphql&logoColor=white" />
   </p>
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=ghanshyamtanchak&theme=react&hide_border=true&include_all_commits=false&count_private=true)
-![](https://github-readme-streak-stats.herokuapp.com/?user=ghanshyamtanchak&theme=react&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ghanshyamtanchak&theme=react&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
-
 ---
 [![](https://visitcount.itsvg.in/api?id=ghanshyamtanchak&icon=6&color=8)](https://visitcount.itsvg.in)
 
