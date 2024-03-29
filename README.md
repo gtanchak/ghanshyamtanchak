@@ -1,4 +1,3 @@
-<h1>Hi, I'm Ghanshyam Tanchak</h1>
 <p>I'm Ghanshyam Tanchak</p>
 
 ## 🙋‍♂️ About Me
