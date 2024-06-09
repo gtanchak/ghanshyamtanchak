@@ -1,11 +1,8 @@
-<p>I'm Ghanshyam Tanchak</p>
+### Hi there 👋  I'm Ghanshyam Tanchak
+<br/>
 
-## 🙋‍♂️ About Me
-🔭 I’m working as a Software Developer.<br>🌱 I’m currently learning node js<br>💬 Ask me about Soft Skills<br>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=gtanchak&title_color=fff&icon_color=8B959E&text_color=9f9f9f&bg_color=0E1217)
 
-
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ghanshyamtanchak) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/@gt_1357) 
 
 # 💻 Tech Stack:
 <p>
