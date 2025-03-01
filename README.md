@@ -25,7 +25,5 @@ I specialize in crafting high-performance, scalable, and visually stunning web a
 - CI/CD, Deployment on Vercel, Netlify
 
 ---
-
-📬 Contact Info:  
-
-📧 Email: ghtanchak1830@gmail.com
+<h3>📬 Contact Info:</h3>
+📧 Email: <a href="mailto:ghtanchak1830@gmail.com" target="_blank">ghtanchak1830@gmail.com</a> <br />
